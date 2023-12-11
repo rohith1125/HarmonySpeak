@@ -46,7 +46,3 @@ language: Python 3.8.5
 platform: Jupyter
 
 Libraries: (numpy, pandas, Matplotlib, seaborn, scipy, sklearn, imblearn)
-      
-## 4. Results
-
-Code available on
